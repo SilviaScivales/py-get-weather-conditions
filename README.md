@@ -10,8 +10,6 @@ A simple Python web app that fetches the current weather conditions for a given 
 ## 🚀 Live Demo
 Check it out here 👉 [py-get-weather-conditions](https://py-get-weather-conditions.onrender.com)
 
-## 📸 Screenshot
-
 ![App Screenshot](./screenshot.png)
 
 ## 🛠️ Technologies Used
